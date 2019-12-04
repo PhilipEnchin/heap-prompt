@@ -1,0 +1,18 @@
+{
+  "name": "heap-prompt",
+  "version": "0.0.1",
+  "description": "A heap toy problem for HRR42 students who just can't wait another few days for our next official toy problem",
+  "main": "heapPrompt.js",
+  "scripts": {
+    "start": "nodemon scratchpad.js",
+    "test": "nodemon test.js"
+  },
+  "author": "Philip Enchin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^2.0.1"
+  }
+}
